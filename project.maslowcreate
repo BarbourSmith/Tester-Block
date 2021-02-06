@@ -11,7 +11,7 @@
             "atomType": "Molecule",
             "name": "Block",
             "x": 0.1726133076181292,
-            "y": 0.31679389312977096,
+            "y": 0.3320610687022901,
             "uniqueID": 583529,
             "ioValues": [],
             "topLevel": false,
@@ -63,11 +63,11 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 110
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -10
+                            "ioValue": 110
                         },
                         {
                             "name": "zDist",
@@ -134,8 +134,8 @@
         {
             "atomType": "Molecule",
             "name": "Shafts",
-            "x": 0.17936354869816779,
-            "y": 0.7786259541984732,
+            "x": 0.18611378977820636,
+            "y": 0.7862595419847328,
             "uniqueID": 451625,
             "ioValues": [],
             "topLevel": false,
