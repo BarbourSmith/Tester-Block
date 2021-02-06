@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Block",
-            "x": 0.16875602700096431,
-            "y": 0.3129770992366412,
+            "x": 0.1726133076181292,
+            "y": 0.3053435114503817,
             "uniqueID": 583529,
             "ioValues": [],
             "topLevel": false,
@@ -117,16 +117,25 @@
         {
             "atomType": "Difference",
             "name": "Difference",
-            "x": 0.44165863066538086,
+            "x": 0.437801350048216,
             "y": 0.5572519083969465,
             "uniqueID": 543387,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "geometry2",
+                    "ioValue": "atoms/916717/451625/151433Union"
+                },
+                {
+                    "name": "geometry1",
+                    "ioValue": "atoms/916717/583529/445269Translate"
+                }
+            ]
         },
         {
             "atomType": "Molecule",
             "name": "Shafts",
-            "x": 0.18129218900675026,
-            "y": 0.7709923664122137,
+            "x": 0.18611378977820636,
+            "y": 0.7977099236641221,
             "uniqueID": 451625,
             "ioValues": [],
             "topLevel": false,
