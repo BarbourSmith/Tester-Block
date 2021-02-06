@@ -64,8 +64,8 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Motor Shaft",
-                            "x": 0.057859209257473475,
-                            "y": 0.2366412213740458,
+                            "x": 0.07425265188042429,
+                            "y": 0.2633587786259542,
                             "uniqueID": 131402,
                             "projectID": "336460533",
                             "ioValues": [
@@ -82,8 +82,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.2815814850530376,
-                            "y": 0.4389312977099236,
+                            "x": 0.20250723240115717,
+                            "y": 0.3549618320610687,
                             "uniqueID": 938905,
                             "ioValues": [
                                 {
@@ -107,8 +107,8 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Motor Shaft",
-                            "x": 0.1205400192864031,
-                            "y": 0.5152671755725191,
+                            "x": 0.07135969141755062,
+                            "y": 0.4236641221374046,
                             "uniqueID": 738615,
                             "projectID": "336460533",
                             "ioValues": [
@@ -125,8 +125,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.437801350048216,
-                            "y": 0.549618320610687,
+                            "x": 0.26325940212150434,
+                            "y": 0.46183206106870234,
                             "uniqueID": 512107,
                             "ioValues": [
                                 {
@@ -150,8 +150,8 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Motor Shaft",
-                            "x": 0.24011571841851492,
-                            "y": 0.7022900763358778,
+                            "x": 0.08678881388621022,
+                            "y": 0.5877862595419847,
                             "uniqueID": 795124,
                             "projectID": "336460533",
                             "ioValues": [
@@ -161,6 +161,56 @@
                                 },
                                 {
                                     "name": "Y",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.3249758919961427,
+                            "y": 0.549618320610687,
+                            "uniqueID": 443913,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/379441/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 30
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.36740597878495657,
+                            "y": 0.6641221374045801,
+                            "uniqueID": 271126,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/271322/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 40
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
                                     "ioValue": 0
                                 }
                             ]
@@ -187,23 +237,90 @@
                                 {
                                     "name": "3D shape 4",
                                     "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 5",
+                                    "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 6",
+                                    "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 7",
+                                    "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 8",
+                                    "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 9",
+                                    "ioValue": 10
+                                },
+                                {
+                                    "name": "3D shape 10",
+                                    "ioValue": 10
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.11764705882352941,
+                            "y": 0.7862595419847328,
+                            "uniqueID": 379441,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 3
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
                                 }
                             ]
                         },
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.5930568948891032,
-                            "y": 0.6450381679389313,
-                            "uniqueID": 443913,
+                            "x": 0.4397299903567985,
+                            "y": 0.7175572519083969,
+                            "uniqueID": 653226,
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/916717/451625/135581/379441/296879Difference"
+                                    "ioValue": "atoms/916717/451625/135581/110440/296879Difference"
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 30
+                                    "ioValue": 50
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.5274831243972999,
+                            "y": 0.7175572519083969,
+                            "uniqueID": 735863,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/562430/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 60
                                 },
                                 {
                                     "name": "yDist",
@@ -218,14 +335,118 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Motor Shaft",
-                            "x": 0.4406943105110897,
-                            "y": 0.8549618320610687,
-                            "uniqueID": 379441,
+                            "x": 0.2150433944069431,
+                            "y": 0.866412213740458,
+                            "uniqueID": 271322,
                             "projectID": "336460533",
                             "ioValues": [
                                 {
                                     "name": "X",
-                                    "ioValue": 3
+                                    "ioValue": 4
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.30954676952748317,
+                            "y": 0.9122137404580152,
+                            "uniqueID": 110440,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 5
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.6104146576663452,
+                            "y": 0.7595419847328244,
+                            "uniqueID": 847888,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/646071/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 70
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.4281581485053038,
+                            "y": 0.9312977099236641,
+                            "uniqueID": 562430,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 6
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.7222757955641274,
+                            "y": 0.7442748091603054,
+                            "uniqueID": 716077,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/839032/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 80
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.5149469623915139,
+                            "y": 0.9160305343511451,
+                            "uniqueID": 646071,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 7
                                 },
                                 {
                                     "name": "Y",
@@ -243,6 +464,67 @@
                                 {
                                     "name": "number or geometry",
                                     "ioValue": "atoms/916717/451625/135581/408111Union"
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.6383799421407907,
+                            "y": 0.9083969465648855,
+                            "uniqueID": 839032,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 8
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Translate",
+                            "name": "Translate",
+                            "x": 0.8302796528447444,
+                            "y": 0.7557251908396946,
+                            "uniqueID": 684235,
+                            "ioValues": [
+                                {
+                                    "name": "geometry",
+                                    "ioValue": "atoms/916717/451625/135581/365221/296879Difference"
+                                },
+                                {
+                                    "name": "xDist",
+                                    "ioValue": 90
+                                },
+                                {
+                                    "name": "yDist",
+                                    "ioValue": 0
+                                },
+                                {
+                                    "name": "zDist",
+                                    "ioValue": 0
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Motor Shaft",
+                            "x": 0.7579556412729025,
+                            "y": 0.900763358778626,
+                            "uniqueID": 365221,
+                            "projectID": "336460533",
+                            "ioValues": [
+                                {
+                                    "name": "X",
+                                    "ioValue": 9
+                                },
+                                {
+                                    "name": "Y",
+                                    "ioValue": 0
                                 }
                             ]
                         }
@@ -285,17 +567,24 @@
                         },
                         {
                             "ap1Name": "geometry",
-                            "ap2Name": "number or geometry",
-                            "ap2Primary": false,
-                            "ap1ID": 408111,
-                            "ap2ID": 693001
-                        },
-                        {
-                            "ap1Name": "geometry",
                             "ap2Name": "3D shape 4",
                             "ap2Primary": false,
                             "ap1ID": 443913,
                             "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 5",
+                            "ap2Primary": false,
+                            "ap1ID": 271126,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "number or geometry",
+                            "ap2Primary": false,
+                            "ap1ID": 408111,
+                            "ap2ID": 693001
                         },
                         {
                             "ap1Name": "Geometry",
@@ -303,6 +592,83 @@
                             "ap2Primary": true,
                             "ap1ID": 379441,
                             "ap2ID": 443913
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 6",
+                            "ap2Primary": false,
+                            "ap1ID": 653226,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 7",
+                            "ap2Primary": false,
+                            "ap1ID": 735863,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 271322,
+                            "ap2ID": 271126
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 110440,
+                            "ap2ID": 653226
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 8",
+                            "ap2Primary": false,
+                            "ap1ID": 847888,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 562430,
+                            "ap2ID": 735863
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 9",
+                            "ap2Primary": false,
+                            "ap1ID": 716077,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 646071,
+                            "ap2ID": 847888
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 839032,
+                            "ap2ID": 716077
+                        },
+                        {
+                            "ap1Name": "geometry",
+                            "ap2Name": "3D shape 10",
+                            "ap2Primary": false,
+                            "ap1ID": 684235,
+                            "ap2ID": 408111
+                        },
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 365221,
+                            "ap2ID": 684235
                         }
                     ],
                     "fileTypeVersion": 1
